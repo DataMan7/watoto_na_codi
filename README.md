@@ -2,7 +2,7 @@
 
 ### Wish someone special happy birthday in a special way.
 
-#### [See it Live](https://DataMan7.github.io/Watoto-na-Codi-Intro/)
+#### [See it Live](https://DataMan7.github.i0/watoto_na_codi/)
 
 #### Update: Now you can customize all the texts without modifying the code!
 
